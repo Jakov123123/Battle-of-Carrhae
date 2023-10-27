@@ -1,4 +1,4 @@
-You start the game from the main menu.
+You start the game from the main menu (upper option).
 
 The game is designed for two players. One controls the Roman (red) army, and the other controls the Parthian (purple) army. The game is divided into phases: the Roman phase and the Parthian phase.
 
