@@ -1,0 +1,173 @@
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.xml
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csprojResolveAssemblyReference.cache
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.Cache
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Jakov\Documents\Faks\IV. semestar\Objektno orijentirano programiranje\Projekt\Projekt\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Jakov\Documents\Faks\IV. semestar\Objektno orijentirano programiranje\Projekt\Projekt\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Jakov\Documents\Faks\IV. semestar\Objektno orijentirano programiranje\Projekt\Projekt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Jakov\Documents\Faks\IV. semestar\Objektno orijentirano programiranje\Projekt\Projekt\OTTER\bin\Debug\OTTER.xml
+C:\Users\Jakov\Documents\Faks\IV. semestar\Objektno orijentirano programiranje\Projekt\Projekt\OTTER\bin\Debug\OTTER.exe
+C:\Users\Jakov\Documents\Faks\IV. semestar\Objektno orijentirano programiranje\Projekt\Projekt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Jakov\Documents\Faks\IV. semestar\Objektno orijentirano programiranje\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Jakov\Documents\Faks\IV. semestar\Objektno orijentirano programiranje\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Jakov\Documents\Faks\IV. semestar\Objektno orijentirano programiranje\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Jakov\Documents\Faks\IV. semestar\Objektno orijentirano programiranje\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Jakov\Documents\Faks\IV. semestar\Objektno orijentirano programiranje\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\Jakov\Documents\Faks\IV. semestar\Objektno orijentirano programiranje\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Jakov\Documents\Faks\IV. semestar\Objektno orijentirano programiranje\Projekt\Projekt\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Jakov\Documents\Faks\IV. semestar\Objektno orijentirano programiranje\Projekt\Projekt\OTTER\bin\Debug\backgrounds\pijesak.jpg
+C:\Users\Jakov\Desktop\Projekt\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Jakov\Desktop\Projekt\OTTER\bin\Debug\backgrounds\pijesak.jpg
+C:\Users\Jakov\Desktop\Projekt\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Jakov\Desktop\Projekt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Jakov\Desktop\Projekt\OTTER\bin\Debug\OTTER.xml
+C:\Users\Jakov\Desktop\Projekt\OTTER\bin\Debug\OTTER.exe
+C:\Users\Jakov\Desktop\Projekt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Jakov\Desktop\Projekt\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Jakov\Desktop\Projekt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Jakov\Desktop\Projekt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Jakov\Desktop\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Jakov\Desktop\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\Jakov\Desktop\Projekt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Jakov\Desktop\Projekt\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Jakov\Desktop\Projekt - Copy\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Jakov\Desktop\Projekt - Copy\OTTER\bin\Debug\backgrounds\pijesak.jpg
+C:\Users\Jakov\Desktop\Projekt - Copy\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Jakov\Desktop\Projekt - Copy\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Jakov\Desktop\Projekt - Copy\OTTER\bin\Debug\OTTER.xml
+C:\Users\Jakov\Desktop\Projekt - Copy\OTTER\bin\Debug\OTTER.exe
+C:\Users\Jakov\Desktop\Projekt - Copy\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Jakov\Desktop\Projekt - Copy\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Jakov\Desktop\Projekt - Copy\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Jakov\Desktop\Projekt - Copy\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Jakov\Desktop\Projekt - Copy\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Jakov\Desktop\Projekt - Copy\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\Jakov\Desktop\Projekt - Copy\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Jakov\Desktop\Projekt - Copy\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Jakov\Desktop\Projekt - Copy - Copy\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Jakov\Desktop\Projekt - Copy - Copy\OTTER\bin\Debug\backgrounds\pijesak.jpg
+C:\Users\Jakov\Desktop\Projekt - Copy - Copy\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Jakov\Desktop\Projekt - Copy - Copy\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Jakov\Desktop\Projekt - Copy - Copy\OTTER\bin\Debug\OTTER.xml
+C:\Users\Jakov\Desktop\Projekt - Copy - Copy\OTTER\bin\Debug\OTTER.exe
+C:\Users\Jakov\Desktop\Projekt - Copy - Copy\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Jakov\Desktop\Projekt - Copy - Copy\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Jakov\Desktop\Projekt - Copy - Copy\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Jakov\Desktop\Projekt - Copy - Copy\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Jakov\Desktop\Projekt - Copy - Copy\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\Jakov\Desktop\Projekt - Copy - Copy\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Jakov\Desktop\Projekt - Copy - Copy\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Jakov\Desktop\Projekt - Copy - Copy\OTTER\obj\x86\Debug\OTTER.Borba.resources
+C:\Users\Jakov\Desktop\Projekt - Copy - Copy\OTTER\obj\x86\Debug\OTTER.Izbornik.resources
+C:\Users\Jakov\Desktop\Projekt - Copy - Copy\OTTER\bin\Debug\OTTER.exe.manifest
+C:\Users\Jakov\Desktop\Projekt - Copy - Copy\OTTER\bin\Debug\OTTER.application
+C:\Users\Jakov\Desktop\Projekt - Copy - Copy\OTTER\obj\x86\Debug\OTTER.exe.manifest
+C:\Users\Jakov\Desktop\Projekt - Copy - Copy\OTTER\obj\x86\Debug\OTTER.application
+C:\Users\Jakov\Desktop\Projekt - Copy - Copy\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Jakov\Desktop\Projekt\OTTER\bin\Debug\OTTER.exe.manifest
+C:\Users\Jakov\Desktop\Projekt\OTTER\bin\Debug\OTTER.application
+C:\Users\Jakov\Desktop\Projekt\OTTER\obj\x86\Debug\OTTER.Borba.resources
+C:\Users\Jakov\Desktop\Projekt\OTTER\obj\x86\Debug\OTTER.Izbornik.resources
+C:\Users\Jakov\Desktop\Projekt\OTTER\obj\x86\Debug\OTTER.exe.manifest
+C:\Users\Jakov\Desktop\Projekt\OTTER\obj\x86\Debug\OTTER.application
+C:\Users\Jakov\Desktop\Projekti\Projekt\OTTER\bin\Debug\backgrounds\pijesak.jpg
+C:\Users\Jakov\Desktop\Projekti\Projekt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Jakov\Desktop\Projekti\Projekt\OTTER\bin\Debug\OTTER.exe.manifest
+C:\Users\Jakov\Desktop\Projekti\Projekt\OTTER\bin\Debug\OTTER.application
+C:\Users\Jakov\Desktop\Projekti\Projekt\OTTER\bin\Debug\OTTER.xml
+C:\Users\Jakov\Desktop\Projekti\Projekt\OTTER\bin\Debug\OTTER.exe
+C:\Users\Jakov\Desktop\Projekti\Projekt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Jakov\Desktop\Projekti\Projekt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Jakov\Desktop\Projekti\Projekt\OTTER\obj\x86\Debug\OTTER.Borba.resources
+C:\Users\Jakov\Desktop\Projekti\Projekt\OTTER\obj\x86\Debug\OTTER.Izbornik.resources
+C:\Users\Jakov\Desktop\Projekti\Projekt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Jakov\Desktop\Projekti\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Jakov\Desktop\Projekti\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\Jakov\Desktop\Projekti\Projekt\OTTER\obj\x86\Debug\OTTER.exe.manifest
+C:\Users\Jakov\Desktop\Projekti\Projekt\OTTER\obj\x86\Debug\OTTER.application
+C:\Users\Jakov\Desktop\Projekti\Projekt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Jakov\Desktop\Projekti\Projekt\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Jakov\Desktop\Projekti\Projekt\OTTER\bin\Debug\sprites\HorseArcher.jpg
+C:\Users\Jakov\Desktop\Projekti\Projekt\OTTER\bin\Debug\sprites\Horseman.jpg
+C:\Users\Jakov\Desktop\Projekti\Projekt\OTTER\bin\Debug\sprites\Horseman1.jpg
+C:\Users\Jakov\Desktop\Projekti\Projekt\OTTER\bin\Debug\sprites\HorsemanArcher1.jpg
+C:\Users\Jakov\Desktop\Projekti\Projekt\OTTER\bin\Debug\sprites\Infantry.jpg
+C:\Users\Jakov\Desktop\Projekti\Projekt\OTTER\bin\Debug\sprites\Legionary.jpg
+C:\Users\Jakov\Desktop\Projekti\Projekt\OTTER\bin\Debug\sprites\SelectedHorseArcher.jpg
+C:\Users\Jakov\Desktop\Projekti\Projekt\OTTER\bin\Debug\sprites\SelectedHorseman.jpg
+C:\Users\Jakov\Desktop\Projekti\Projekt\OTTER\bin\Debug\sprites\SelectedLegionary.jpg
+C:\Users\Jakov\Desktop\Projekti\Projekt\OTTER\bin\Debug\sprites\SelectedUnit_Background.jpg
+C:\Users\Jakov\Desktop\Projekti\Projekt\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana\OTTER\bin\Debug\backgrounds\pijesak.jpg
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana\OTTER\bin\Debug\sprites\HorseArcher.jpg
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana\OTTER\bin\Debug\sprites\Horseman.jpg
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana\OTTER\bin\Debug\sprites\Horseman1.jpg
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana\OTTER\bin\Debug\sprites\HorsemanArcher1.jpg
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana\OTTER\bin\Debug\sprites\Infantry.jpg
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana\OTTER\bin\Debug\sprites\Legionary.jpg
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana\OTTER\bin\Debug\sprites\SelectedHorseArcher.jpg
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana\OTTER\bin\Debug\sprites\SelectedHorseman.jpg
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana\OTTER\bin\Debug\sprites\SelectedLegionary.jpg
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana\OTTER\bin\Debug\sprites\SelectedUnit_Background.jpg
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana\OTTER\bin\Debug\OTTER.exe.manifest
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana\OTTER\bin\Debug\OTTER.application
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana\OTTER\bin\Debug\OTTER.xml
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana\OTTER\bin\Debug\OTTER.exe
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana\OTTER\obj\x86\Debug\OTTER.Borba.resources
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana\OTTER\obj\x86\Debug\OTTER.Izbornik.resources
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana\OTTER\obj\x86\Debug\OTTER.exe.manifest
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana\OTTER\obj\x86\Debug\OTTER.application
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana 1.1\Bitka kod Harana\OTTER\bin\Debug\backgrounds\pijesak.jpg
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana 1.1\Bitka kod Harana\OTTER\bin\Debug\sprites\HorseArcher.jpg
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana 1.1\Bitka kod Harana\OTTER\bin\Debug\sprites\Horseman.jpg
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana 1.1\Bitka kod Harana\OTTER\bin\Debug\sprites\Horseman1.jpg
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana 1.1\Bitka kod Harana\OTTER\bin\Debug\sprites\HorsemanArcher1.jpg
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana 1.1\Bitka kod Harana\OTTER\bin\Debug\sprites\Infantry.jpg
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana 1.1\Bitka kod Harana\OTTER\bin\Debug\sprites\Legionary.jpg
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana 1.1\Bitka kod Harana\OTTER\bin\Debug\sprites\SelectedHorseArcher.jpg
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana 1.1\Bitka kod Harana\OTTER\bin\Debug\sprites\SelectedHorseman.jpg
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana 1.1\Bitka kod Harana\OTTER\bin\Debug\sprites\SelectedLegionary.jpg
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana 1.1\Bitka kod Harana\OTTER\bin\Debug\sprites\SelectedUnit_Background.jpg
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana 1.1\Bitka kod Harana\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana 1.1\Bitka kod Harana\OTTER\bin\Debug\OTTER.exe.manifest
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana 1.1\Bitka kod Harana\OTTER\bin\Debug\OTTER.application
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana 1.1\Bitka kod Harana\OTTER\bin\Debug\OTTER.xml
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana 1.1\Bitka kod Harana\OTTER\bin\Debug\OTTER.exe
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana 1.1\Bitka kod Harana\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana 1.1\Bitka kod Harana\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana 1.1\Bitka kod Harana\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana 1.1\Bitka kod Harana\OTTER\obj\x86\Debug\OTTER.Borba.resources
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana 1.1\Bitka kod Harana\OTTER\obj\x86\Debug\OTTER.Izbornik.resources
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana 1.1\Bitka kod Harana\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana 1.1\Bitka kod Harana\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana 1.1\Bitka kod Harana\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana 1.1\Bitka kod Harana\OTTER\obj\x86\Debug\OTTER.exe.manifest
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana 1.1\Bitka kod Harana\OTTER\obj\x86\Debug\OTTER.application
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana 1.1\Bitka kod Harana\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Jakov\Desktop\Projekti\Bitka kod Harana 1.1\Bitka kod Harana\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\jakov\OneDrive\Desktop\Bitka kod Harana\OTTER\obj\x86\Debug\OTTER.csproj.AssemblyReference.cache
+C:\Users\jakov\OneDrive\Desktop\Bitka kod Harana\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\jakov\OneDrive\Desktop\Bitka kod Harana\OTTER\obj\x86\Debug\OTTER.Borba.resources
+C:\Users\jakov\OneDrive\Desktop\Bitka kod Harana\OTTER\obj\x86\Debug\OTTER.Izbornik.resources
+C:\Users\jakov\OneDrive\Desktop\Bitka kod Harana\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\jakov\OneDrive\Desktop\Bitka kod Harana\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\jakov\OneDrive\Desktop\Bitka kod Harana\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\jakov\OneDrive\Desktop\Bitka kod Harana\OTTER\obj\x86\Debug\OTTER.pdb

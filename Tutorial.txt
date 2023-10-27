@@ -1,0 +1,11 @@
+You start the game from the main menu.
+
+The game is designed for two players. One controls the Roman (red) army, and the other controls the Parthian (purple) army. The game is divided into phases: the Roman phase and the Parthian phase.
+
+Each phase consists of 15 turns, and a turn is spent on movement (-2 for legionaries and -1 for cavalry and mounted archers) or attacking (-1). After launching the game, the first phase is the Roman phase. You can select any Roman unit by clicking the mouse. Movement is done using the keyboard arrows.
+
+A unit can only move to an empty space. When two enemy units are on adjacent tiles, clicking on the enemy unit initiates a battle (each unit can initiate only one battle in a phase). The results of the battle are displayed on the screen. After 15 turns, it's the Parthians' turn.
+
+The functions are the same for the Parthians. A unit is destroyed if its morale or manpower reaches 0. The winner is the one who destroys all the enemy units.
+
+If you wish to quit the game, press "Exit" in the bottom left corner.
